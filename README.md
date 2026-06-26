@@ -3,12 +3,12 @@
 **Domains:** Robotics, Path Planning, Autonomous Systems, Microcontroller Programming  
 
 [![Read Full PDF Report](https://img.shields.io/badge/📄_Read_Full_Report-PDF-blue)](assets/report.pdf)
-[![Watch Demonstration Video](https://img.shields.io/badge/📺_Watch_Demo-MP4-red)](assets/demonstration.mp4)
+[![Watch Demonstration Video](https://img.shields.io/badge/📺_Watch_Demonstration-MP4-red)](assets/demonstration.mp4)
 
 ## Project Overview
 This project explores the implementation of real-time path planning algorithms in a known environment using an autonomous robotic car. The system is equipped with an ultrasonic sensor for obstacle avoidance and a push-box mechanism for object retrieval. Designed within a controlled, two-dimensional 6x6 grid-based environment, this project demonstrates how academic algorithms like the A* search can be effectively deployed on microcontroller hardware with limited computation and storage capabilities.
 
-![Robotic Car Sketch](assets/carSketch.jpg)
+![Robotic Car Sketch](assets/carSketch.png)
 *Figure: Conceptual sketch of the autonomous robotic car.*
 
 ## Key Features & Capabilities
@@ -48,7 +48,7 @@ The car navigates a predefined 6x6 grid where obstacles (marked as '2'), the sta
 5. **Retrieval:** Upon reaching the goal, the push mechanism is activated to retrieve the object.
 6. **Return:** The car retraces its path to the source node.
 
-![Algorithm Flowchart](assets/algorithm.jpg)
+![Algorithm Flowchart](assets/algorithm.png)
 *Figure: Algorithm flow of the proposed model.*
 
 ## Results & Future Work
