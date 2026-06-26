@@ -2,7 +2,8 @@
 
 **Domains:** Robotics, Path Planning, Autonomous Systems, Microcontroller Programming  
 
-[![Read Full PDF Report](https://img.shields.io/badge/📄_Read_Full_Report-PDF-blue)](assets/report.pdf)  
+[![Read Full PDF Report](https://img.shields.io/badge/📄_Read_Full_Report-PDF-blue)](assets/report.pdf)
+[![Watch Demonstration Video](https://img.shields.io/badge/📺_Watch_Demonstration-MP4-red)](assets/demonstration.mp4)
 
 <video src="https://github.com/mshakib1083/Goal-Oriented-Autonomous-Robotic-Car-with-Obstacles-Avoidance-and-Box-Retrieval-System/blob/main/assets/demonstration.mp4" controls="controls" width="100%"></video>
 
